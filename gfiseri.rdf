@@ -3,6 +3,8 @@ Name: GFI Working Papers
 Provider-Name: Global Financial Info
 Provider-Homepage: https://globalfinancialinfo.info
 Provider-Institution: RePEc:gfi
+Maintainer-Name: Global Financial Info
+Maintainer-Email: team@globalfinancialinfo.info
 Type: ReDIF-Paper
 Description: Methods notes and data documentation accompanying Global Financial Info datasets. Each paper documents the source hierarchy, harmonization rules, revision policy and known limits of a released dataset.
 Handle: RePEc:gfi:wpaper
